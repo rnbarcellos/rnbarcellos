@@ -1,6 +1,6 @@
 ### Hi, I'm Rodrigo! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnbarcellos)](https://github.com/rnbarcellos/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnbarcellos)](https://github.com/rnbarcellos/github-readme-stats&theme=onedark)
 
 <!--
 **rnbarcellos/rnbarcellos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
