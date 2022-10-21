@@ -1,7 +1,7 @@
 ### Hi, I'm Rodrigo!
 
-Be my guest and feel free to look around
-I'm currently learning web development at Trybe
+Be my guest and feel free to look around <br>
+I'm currently learning web development at Trybe <br>
 Some of the languages and tool:
 - JavaScript
 - HTML & CSS
