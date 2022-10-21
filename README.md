@@ -1,18 +1,21 @@
-### Hi, I'm Rodrigo! 👋
+### Hi, I'm Rodrigo!
+
+Be my guest and feel free to look around
+I'm currently learning web development at Trybe
+Some of the languages and tool:
+- JavaScript
+- HTML & CSS
+- React
+- Node.JS
+- Docker
+- MySQL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnbarcellos&show_icons=true&theme=onedark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
-**rnbarcellos/rnbarcellos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hobbies
 -->
