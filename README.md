@@ -5,7 +5,7 @@
 
 Be my guest and feel free to look around <br>
 I'm currently learning web development at Trybe <br>
-Some of the languages and tool:
+Some of the languages and tools:
 - JavaScript
 - HTML & CSS
 - React
