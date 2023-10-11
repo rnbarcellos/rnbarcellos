@@ -13,6 +13,10 @@ Some of the languages and tools:
 - Docker
 - MySQL
 
+Contact me:
+- Email: rodrigo.barcellos@outlook.com.br
+- Linkedin: https://www.linkedin.com/in/rodrigobrcl/
+
 <!--
 to add
 - https://github.com/anmol098/waka-readme-stats
